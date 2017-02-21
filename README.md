@@ -1,8 +1,18 @@
 # Cards
 
-## Execute
+Install dependencies
+```
+mix deps.get
+```
+
+Enter to Interactive
 ```
 iex -S mix
+```
+
+Generate Documentation
+```
+mix docs
 ```
 
 ## Installation
